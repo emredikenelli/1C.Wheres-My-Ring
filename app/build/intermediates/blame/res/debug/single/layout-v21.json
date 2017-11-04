@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\AliSoyaslan\\Desktop\\Android_Projects\\WheresMyRing\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\AliSoyaslan\\.android\\build-cache\\a224f77bf47f7333d9c1fbe52e995aadc39934c7\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\AliSoyaslan\\Desktop\\Android_Projects\\WheresMyRing\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\AliSoyaslan\\.android\\build-cache\\a224f77bf47f7333d9c1fbe52e995aadc39934c7\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\AliSoyaslan\\Desktop\\Android_Projects\\WheresMyRing\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\AliSoyaslan\\.android\\build-cache\\a224f77bf47f7333d9c1fbe52e995aadc39934c7\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\AliSoyaslan\\Desktop\\Android_Projects\\WheresMyRing\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\AliSoyaslan\\.android\\build-cache\\a224f77bf47f7333d9c1fbe52e995aadc39934c7\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]
