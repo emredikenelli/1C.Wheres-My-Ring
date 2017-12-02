@@ -10,4 +10,7 @@
 
 3) Update Location based calls for PHP - Delete --> (Ali)
 	Location is a auto track from predefined route
+
+4) Update Object Model --> (Ali)
+	Delete SelectBus Activity 
 	
