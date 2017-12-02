@@ -1,0 +1,13 @@
+1) 3.1) Design Patterns / Archiectural Styles
+	Change MVC from Pattern to style --> (Ali)
+	Add styles to each subsystem and to whole project --> (Emre - Ali)
+	
+2) Models Subsystem
+	Update Model Package --> (Ali-Bahadır)
+		Delete Location Class
+	Update Map Class and definition --> (Bahadır)
+	Update Stop Class --> (Bahadır)
+
+3) Update Location based calls for PHP - Delete --> (Ali)
+	Location is a auto track from predefined route
+	
